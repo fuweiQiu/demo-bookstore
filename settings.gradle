@@ -1,0 +1,4 @@
+rootProject.name = 'springboot-demo-backend'
+include 'modules:demo-config'
+include 'modules:demo-database-config'
+
